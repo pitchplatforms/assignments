@@ -1,1 +1,44 @@
-
+[
+  {
+    "status": "live",
+    "image": "http://placeimg.com/640/500/tech",
+    "business": {
+      "logo": "http://placeimg.com/100/100/animals/grayscale",
+      "name": "Asia Tech",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fermentum nisl quis nisi tincidunt dapibus."
+    },
+    "campaign": {
+      "raised": 10000,
+      "investors": 49,
+      "target": 100000
+    }
+  },
+  {
+    "status": "prelaunch",
+    "image": "http://placeimg.com/700/600/tech",
+    "business": {
+      "logo": "http://placeimg.com/100/100/animals/grayscale",
+      "name": "Russel, Nolan and Hackett",
+      "description": "In sagittis volutpat posuere. Duis vel magna eget odio posuere rutrum facilisis aliquet lorem. Fusce aliquam gravida velit non dictum."
+    },
+    "campaign": {
+      "raised": 153943,
+      "investors": 1,
+      "target": 300000
+    }
+  },
+  {
+    "status": "prelaunch",
+    "image": "http://placeimg.com/700/600/tech",
+    "business": {
+      "logo": "http://placeimg.com/100/100/animals/grayscale",
+      "name": "Brown Group",
+      "description": "Vestibulum nec faucibus urna, vehicula eleifend metus. Mauris ullamcorper dignissim iaculis. Etiam eleifend ligula et enim tincidunt, sit amet ornare orci euismod. Sed eget vestibulum ligula. Aliquam interdum egestas nisi."
+    },
+    "campaign": {
+      "raised": 54304,
+      "investors": 194,
+      "target": 250000
+    }
+  }
+]
