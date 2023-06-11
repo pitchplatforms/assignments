@@ -8,7 +8,7 @@ function sortData(data) {
   let output = [];
 
   // Loop through each individual airport
-  data.forEach(element => {
+  for (const element of data) {
 
     // Preparing the airport object
     let airportObj = {
@@ -38,7 +38,7 @@ function sortData(data) {
       return a.country.localeCompare(b.country);
     });
 
-  });
+  };
 
   // Output the expected JSON
   console.log(output);
